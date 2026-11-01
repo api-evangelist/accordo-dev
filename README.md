@@ -1,4 +1,4 @@
-# accordo-dev
+# Accordo
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,112 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-accordo-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://accordo.dev/
+Accordo provides a CRM framework for AI agents such as Claude, Code, Grok, and Muse. It enables businesses to define custom sales and service workflows, policy‑driven decision making, and integrates with AI coding assistants. The platform offers both hosted cloud and self‑hosted options, with tools for quoting, approvals, contracts, and renewal automation, all version‑controlled in source repositories.
+
+**Areas:** CRM · AI agents · Revenue operations · Open source
+
+## Accordo on APIs.io
+
+Everything profiled for Accordo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/accordo-dev/](https://apis.io/providers/accordo-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Accordo API](https://apis.io/apis/accordo-dev/accordo-api/) — Accordo provides a developer portal at https://accordo.dev/developers.html but no public machine‑readable contract was found.
+- [Accordo API](https://apis.io/apis/accordo-dev/accordo-dev-api/) — Accordo API as documented publicly: 21 operations. Contract generated from the documentation by API Evangelist (2026-10-31); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiAdminMetricsResponse](https://apis.io/schemas/accordo-dev/accordo-dev-get-api-admin-metrics-response/)
+- [GetApiModulesModuleResponse](https://apis.io/schemas/accordo-dev/accordo-dev-get-api-modules-module-response/)
+- [GetApiSchemaResponse](https://apis.io/schemas/accordo-dev/accordo-dev-get-api-schema-response/)
+- [GetHealthResponse](https://apis.io/schemas/accordo-dev/accordo-dev-get-health-response/)
+- [PostApiContactsRequest](https://apis.io/schemas/accordo-dev/accordo-dev-post-api-contacts-request/)
+- [PostApiModulesModuleRecordsIdActionsActionResponse](https://apis.io/schemas/accordo-dev/accordo-dev-post-api-modules-module-records-id-actions-action-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Accordo Dev Context](https://apis.io/jsonld/accordo-dev/accordo-dev-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Accordo API Rules](https://apis.io/rules/accordo-dev/accordo-dev-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Accordo Dev Domain Security](https://apis.io/security/accordo-dev/accordo-dev-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://accordo.dev/)
+- [Documentation](https://github.com/khaoss85/agent-crm/blob/main/docs/MCP.md)
+- [Blog](https://accordo.dev/blog/run-a-b2b-quote-approval-workflow.html)
+- [Privacy policy](https://accordo.dev/privacy.html)
+
+## API Evangelist rating
+
+**Kin Score 32.4** — thin · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 49.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 10.5 |
+
+**Agent readiness 19.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | mostly |
+
+**Regulatory alignment 14.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/accordo-dev/](https://apis.io/providers/accordo-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Accordo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/accordo-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
