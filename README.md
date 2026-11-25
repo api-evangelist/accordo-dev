@@ -66,7 +66,7 @@
 
 Accordo provides a CRM framework for AI agents such as Claude, Code, Grok, and Muse. It enables businesses to define custom sales and service workflows, policy‑driven decision making, and integrates with AI coding assistants. The platform offers both hosted cloud and self‑hosted options, with tools for quoting, approvals, contracts, and renewal automation, all version‑controlled in source repositories.
 
-**Areas:** CRM · AI agents · Revenue operations · Open source
+**Areas:** CRM · AI Agents · Revenue Operations · Open Source
 
 ## Accordo on APIs.io
 
@@ -108,7 +108,7 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Accordo Dev Domain Security](https://apis.io/security/accordo-dev/accordo-dev-domain-security/)
+- [Accordo Domain Security](https://apis.io/security/accordo-dev/accordo-dev-domain-security/)
 
 ## Where to find this API
 
@@ -121,18 +121,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 32.4** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 19.5** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
-| Contract quality | 49.1 |
-| Contract governance | 79.1 |
+| Discoverability | 55.4 |
+| Contract quality | 23.5 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 19.0 |
-| Access clarity | 10.5 |
+| Access clarity | 12.8 |
 
-**Agent readiness 19.6** — agent-aware
+**Agent readiness 19.2** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -156,9 +156,13 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
 | Pagination Ratio | paginated |
-| Operation Distinctiveness | mostly |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 14.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 8.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/accordo-dev/](https://apis.io/providers/accordo-dev/).
 
